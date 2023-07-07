@@ -1,6 +1,12 @@
 # notes
 
-This is a app and febricated from android notes app clone.
+This is a app from android notes app clone.
+
+
+
+https://github.com/TariqMehmood1004/Notes-Flutter-app/assets/116074810/9299f67a-300d-4671-bd9a-81e840164202
+
+
 
 ## Getting Started
 
